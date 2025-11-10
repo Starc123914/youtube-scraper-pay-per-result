@@ -1,0 +1,4 @@
+# Sample input file containing queries or search terms
+Python programming tutorial
+Data Science tutorials
+Machine Learning for beginners
