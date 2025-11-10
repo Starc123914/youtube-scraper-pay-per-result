@@ -1,0 +1,25 @@
+[
+  {
+    "type": "video",
+    "id": "123456",
+    "title": "Sample Video",
+    "url": "https://www.youtube.com/watch?v=123456",
+    "description": "Sample description for the video.",
+    "views": 100000,
+    "likes": 10000,
+    "channel": {
+      "id": "UC123456789",
+      "name": "Sample Channel",
+      "url": "https://www.youtube.com/channel/UC123456789"
+    },
+    "publishDate": "2023-01-01T00:00:00Z",
+    "duration": 300,
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/123456/hqdefault.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  }
+]
